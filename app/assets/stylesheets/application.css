@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+ .v-line{
+  border-left: thick solid #868585;
+  left: 50%;
+ }
+
+ .v-line2{
+  border-left: thick solid #868585;
+  left: 50%;
+  background:rgb(245, 245, 201);
+ }
+ .left-text{
+  left: 12px;
+  position: relative;
+}
